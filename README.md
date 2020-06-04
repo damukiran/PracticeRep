@@ -1,2 +1,2 @@
 # PracticeRep
-My Repository To Practice Java
+My Repository To Practice
