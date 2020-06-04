@@ -1,2 +1,2 @@
 # PracticeRep
-My Repository 
+My Repo
